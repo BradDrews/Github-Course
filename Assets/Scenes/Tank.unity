@@ -408,7 +408,7 @@ GameObject:
   - component: {fileID: 1269552897}
   - component: {fileID: 1269552896}
   m_Layer: 0
-  m_Name: Cube (1)
+  m_Name: Turrent
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -503,7 +503,7 @@ GameObject:
   - component: {fileID: 1438416740}
   - component: {fileID: 1438416739}
   m_Layer: 0
-  m_Name: Cube (2)
+  m_Name: Cannon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -598,7 +598,7 @@ GameObject:
   - component: {fileID: 1606226451}
   - component: {fileID: 1606226450}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Hull
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
